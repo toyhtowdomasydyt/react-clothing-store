@@ -134,4 +134,4 @@ modules.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,webstorm+all
 
-/.firebase-config.js
+/src/.firebase-config.js
